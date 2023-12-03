@@ -1,6 +1,6 @@
-## Exploring NBA Draft Picks (1989-2021): A Comprehensive Analysis
+# Exploring NBA Draft Picks (1989-2021): A Comprehensive Analysis
 
-# Introduction
+## Introduction
 
 My project delves into the NBA Draft picks spanning from 1989 to 2021, aiming to address specific research questions that shed light on the performance and impact of players based on their draft positions. As both a fan of the NBA and a data science major, the project was particularly interesting; in a sense, I was providing similar analysis that front offices/scouting departments produce to prepare for drafting new players each year. The primary research questions include: 
 1) How do first overall picks compare in performance metrics to other picks?
