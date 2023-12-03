@@ -44,10 +44,22 @@ RESULTS: As seen in the graphs above, there are apparent differences between per
 
 ### Question 3: What colleges send the most players to the NBA and how do they influence a player's draft position?
 ![Q3_Graph](graph/collegeGraphs.png)
-![Q3_Graph](graph/collegePieChart.png)
 
 RESULTS: As seen in the graphs above and to the right, there are certain schools that dominate the pipeline to the NBA. Schools like Kentucky, Duke, Arizona, UNC, UCLA, and Kansas make up 45% of players sent to the NBA. However, the quantity of players sent to the NBA does not always correlate to the quality. For example, a school like Duke has a median pick position of around 15, while UCLA is above 30. Furthermore, a school like UNC has the middle 50% of its players being selected between pick 10 and 30, while a school like Michigan State has its middle 50% of its players being selected between picks 10 and 50. Thus, colleges definitely influence a players path to the NBA, in that big schools garner more attention from scouts (and have a more distinguished history), however, the box plot indicates that good players will be chosen at higher positions more independently than the school they attend. As a note, it is important to understand that these schools recruit the top talent around the world, thus, the schools influence is hard to distinguish from a player’s inherent capabilities.
 
 ### Question 4: What are the major contributors to a player's win shares? 
+![Q4_Graph](graph/totalMetricxWin.png)
+![Q4_Graph](graph/3avgMetricsxWin.png)
+![Q4_Graph](graph/2avgMetricsxWin.png)
+
+RESULTS: As seen in the graphs above, the biggest contributor to a player’s win shares is total performance metrics, followed by average performance metric, and lastly field goal and box plus/minus. Looking at the total performance metric graphs, the regression lines fit the scatter distribution relatively strongly – specifically the total points vs. win shares which has an R2 value of .89. Comparing this to the average statistics, the regression line does not fit the distribution as strongly, with points per game having an R2 value of .51. While this may not immediately make sense, average statistics are more prone to being skewed by outlier seasons, whereas the total metrics more accurately define how consistent a player is able to tally points, assists, and rebounds throughout their whole career. Furthermore, looking at field goal percentage and box plus/minus, the regression line has a very weak fit of the distribution. This makes sense because field goal percentage does not necessarily consider the number of shots or points scored as a result of the shots (and thus the value of such shots) and box plus/minus does not just look at an individual’s performance, but also the entire team. 
+
+## Question 5: Can a basic predictive model be established for a player's win shares based on their overall pick?
+![Q5_Graph](graph/machineLearningOutput.png)
+
+RESULTS: The code output above represents a predictive model for a player’s win shares based on the pick they were chosen at. The coefficient of -0.675 means that on average, for each pick that a player drops (picked second instead of first, third instead of second, etc.), their win shares will decrease by 0.675 win shares on average. It is important to note that the Mean Squared Error is 575.29 indicates an extremely high amount of variance in this model. This means that it is difficult to accurately predict a player’s win shares simply based on the pick they were chosen with.
+
+
+
 
 
