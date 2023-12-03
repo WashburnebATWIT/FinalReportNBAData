@@ -32,13 +32,13 @@ Materials and tools employed in this analysis include NumPy, Pandas, Matplotlib,
 
 ## Results
 ### Question 1: How do first overall picks compare in performance metrics to other picks? 
-![Q1_Graph](graph/firstPicksregression.png)
-![Q1_Graph](graph/nonFirstPicksRegression.png)
+![Q1_Graph](graph/firstPickRegression.png)
+![Q1_Graph](graph/nonFirstPickRegression.png)
 
 RESULTS: As seen in the graphs above, for both the first overall and non-first overall picks, there is a relatively strong linear correlation for both points and rebounds vs. years active, and a weaker relationship for assists. Essentially, as a player plays more years in the league, there performance metrics also increase at a rather linear rate – which is a bit surprising as you may expect player development to induce a growing slope. However, an important note when comparing these graphs is the difference in the regression line equation for the first overall vs. non-first overall picks: (ignoring the y-intercept as this is rather trivial in context), the slope for each performance metric of the first overall picks is higher than the non-first overall picks. In context, this predictive line indicates that first overall picks produce higher performance metrics (score more points, get more assists and rebounds) than other picks on average.
 
 ### Question 2: How do performance metrics differ by decade?
-![Q2_Graph](graph/MetricByDecade.png)
+![Q2_Graph](graph/MetricByDecade1.png)
 
 RESULTS: As seen in the graphs above, there are apparent differences between performance metrics based on different decades in the NBA. For both the 1990s and 2000s, the line graph of the performance metrics almost overlap (with some peaks and lows), indicating players in these decades scored, rebounded, and assisted at similar rates. As a note, once the years active went beyond 15+ years, the performance metrics became a bit skewed, which makes sense because players who play this long are often times above average (since they are able to last that long in the NBA). However, looking at both the 2010 and 2020 lines, there seems to be an increase in performance amongst all metrics. Although this data is incomplete in the sense that the players drafted in these decades have not finished their careers, the findings indicate that players are scoring, rebounding, and assisting more on average than players in other decades. This makes sense, as performance training and recovery has only increased throughout time, so players are more skilled than previous decades.
 
