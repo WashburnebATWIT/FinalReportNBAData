@@ -50,7 +50,7 @@ RESULTS: As seen in the graphs above and to the right, there are certain schools
 ### Question 4: What are the major contributors to a player's win shares? 
 ![Q4_Graph](graph/totalMetricxWin.png)
 ![Q4_Graph](graph/3avgMetricsxWin.png)
-![Q4_Graph](graph/2avgMetricsxWin.png)
+![Q4_Graph](graph/2avgMetricxWin.png)
 
 RESULTS: As seen in the graphs above, the biggest contributor to a player’s win shares is total performance metrics, followed by average performance metric, and lastly field goal and box plus/minus. Looking at the total performance metric graphs, the regression lines fit the scatter distribution relatively strongly – specifically the total points vs. win shares which has an R2 value of .89. Comparing this to the average statistics, the regression line does not fit the distribution as strongly, with points per game having an R2 value of .51. While this may not immediately make sense, average statistics are more prone to being skewed by outlier seasons, whereas the total metrics more accurately define how consistent a player is able to tally points, assists, and rebounds throughout their whole career. Furthermore, looking at field goal percentage and box plus/minus, the regression line has a very weak fit of the distribution. This makes sense because field goal percentage does not necessarily consider the number of shots or points scored as a result of the shots (and thus the value of such shots) and box plus/minus does not just look at an individual’s performance, but also the entire team. 
 
