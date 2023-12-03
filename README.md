@@ -32,7 +32,7 @@ Materials and tools employed in this analysis include NumPy, Pandas, Matplotlib,
 
 ## Results
 ### Question 1: How do first overall picks compare in performance metrics to other picks? 
-![Q1_Graph](graph/firstPicksRegression.png)
+![Q1_Graph](graph/firstPicksregression.png)
 ![Q1_Graph](graph/nonFirstPicksRegression.png)
 
 RESULTS: As seen in the graphs above, for both the first overall and non-first overall picks, there is a relatively strong linear correlation for both points and rebounds vs. years active, and a weaker relationship for assists. Essentially, as a player plays more years in the league, there performance metrics also increase at a rather linear rate – which is a bit surprising as you may expect player development to induce a growing slope. However, an important note when comparing these graphs is the difference in the regression line equation for the first overall vs. non-first overall picks: (ignoring the y-intercept as this is rather trivial in context), the slope for each performance metric of the first overall picks is higher than the non-first overall picks. In context, this predictive line indicates that first overall picks produce higher performance metrics (score more points, get more assists and rebounds) than other picks on average.
