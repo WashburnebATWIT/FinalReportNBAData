@@ -8,3 +8,9 @@ My project delves into the NBA Draft picks spanning from 1989 to 2021, aiming to
 3) What colleges send the most players to the NBA and how do they influence a player's draft position?
 4) What are the major contributors to a player's win shares?
 5) Can a basic predictive model be established for a player's win shares based on their overall pick?
+
+## Selection of Data
+
+The dataset comprises comprehensive information on NBA Draft picks from 1989 to 2021, encompassing details such as the year, overall pick, and player-specific data. The source of the dataset is from basketball reference – one of the most reputable and comprehensive sources of NBA data. Furthermore, the specific data set was found on Kaggle and has a useability rating of 10.00 – confirming completeness, credibility, and compatibility. In terms of characteristics, the data set includes information about performance metrics, college affiliations, and draft pick details.
+
+![Information in Data](DataColumns.png)
