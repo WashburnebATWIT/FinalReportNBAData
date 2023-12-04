@@ -12,7 +12,7 @@ My project delves into the NBA Draft picks spanning from 1989 to 2021, aiming to
 ## Selection of Data
 ### Information
 
-The dataset comprises comprehensive information on NBA Draft picks from 1989 to 2021, encompassing details such as the year, overall pick, and player-specific data. The source of the dataset is from basketball reference – one of the most reputable and comprehensive sources of NBA data. Furthermore, the specific data set was found on Kaggle and has a useability rating of 10.00 – confirming completeness, credibility, and compatibility. In terms of characteristics, the data set includes information about performance metrics, college affiliations, and draft pick details.
+The dataset includes information on NBA Draft picks from 1989 to 2021, encompassing details such as the year, overall pick, and player-specific data. The source of the dataset is from basketball reference – one of the most reputable and comprehensive sources of NBA data. Furthermore, the specific data set was found on Kaggle and has a useability rating of 10.00 – confirming completeness, credibility, and compatibility. In terms of characteristics, the data set includes information about performance metrics, college affiliations, and draft pick details.
 
 ![Information in Data](graph/DataColumns.png)
 
