@@ -73,7 +73,8 @@ In terms of extending this work beyond the analysis in this report, it would be 
 
 ## References
 1) [DATASET](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/)
-  Outside Source
+
+Outside Sources
 1) Leite, N., Calvo, A. L., Cumming, S., Gonçalves, B., & Calleja-Gonzalez, J. (2021, November 24). Editorial: Talent identification and development in sports performance. Frontiers in sports and active living. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/)
 
