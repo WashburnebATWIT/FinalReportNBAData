@@ -18,7 +18,7 @@ The dataset includes information on NBA Draft picks from 1989 to 2021. The sourc
 
 ### Data Cleaning 
 
-In terms of any munging, imputation, or feature engineering, there was specific cleaning necessary to work with the data. Firstly, I had to handle null/missing data: for the numerical values, I changed all missing data to 0 (as the player never played in the NBA), and for the object values I simply dropped all missing data (as any player who did not go to college or did not play on a team would inherently provide no use to the data analysis). Furthermore, I added a data column for decade (based on when a player was drafted), and filtered data such as separating #1 overall picks from all other picks. 
+In terms of any munging, imputation, or feature engineering, there was specific cleaning necessary to work with the data. Firstly, I had to handle null/missing data: for the numerical values, I changed all missing data to 0 (as the player never played in the NBA), and for missing colleges, I dropped the data as any player who did not go to college would inherently provide no use to the data analysis about the colleges who sent the most players to the NBA. Furthermore, I added a data column for decade (based on when a player was drafted), and filtered data such as separating #1 overall picks from all other picks. 
 
 ## Methods
 
