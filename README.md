@@ -73,12 +73,9 @@ In terms of extending this work beyond the analysis in this report, it would be 
 
 ## References
 1) [DATASET]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/](https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021))
-
 2) Leite, N., Calvo, A. L., Cumming, S., Gonçalves, B., & Calleja-Gonzalez, J. (2021, November 24). Editorial: Talent identification and development in sports performance. Frontiers in sports and active living. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/)
-
 3) Kleinfeld, A. J. (2023, October 24). OTE, NCAA, or G League? A wealth of options to chart a path to the NBA. Foley & Lardner LLP. https://www.foley.com/insights/publications/2021/11/ote-ncaa-or-g-league-options-path-to-nba/ 
 [Link](https://www.foley.com/insights/publications/2021/11/ote-ncaa-or-g-league-options-path-to-nba/)
-
 4) Wimbish, Jasmyn. Jun 2, J. (2020, June 2). Five all-time NBA 3-and-D specialists who defined role that is central to today’s game. CBSSports.com. https://www.cbssports.com/nba/news/five-all-time-nba-3-and-d-specialists-who-defined-role-that-is-central-to-todays-game/ 
 [Link](https://www.cbssports.com/nba/news/five-all-time-nba-3-and-d-specialists-who-defined-role-that-is-central-to-todays-game/)
