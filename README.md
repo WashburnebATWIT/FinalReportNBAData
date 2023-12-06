@@ -72,14 +72,13 @@ The last important discussion point is the importance of context in discussing a
 In terms of extending this work beyond the analysis in this report, it would be interesting to look at more factors that indicate a player’s success. This includes analyzing how height and weight has changed over the years (what does an NBA body look like today compared to other generations?); determining what regions produce the most NBA talent; determining the position and playstyle that is most likely to be drafted; and once enough data is available, what is the most rewarding pathway to the NBA? Furthermore, I would like to expand the data to include demographic and athletic information of the players. The dataset used within this report only contained information about player metrics, but did not include information about a player’s size, where they grew up, athletic measures like how high they can jump or how fast they can run – which is all information extremely valuable in modeling a player’s potential. In any sense, the world of sports analytics is ever evolving and an imperfect science at best, and thus, there is always more questions to ask and improvement to be made in identifying and developing talent.
 
 ## References
-1) [DATASET](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/)
+1) [DATASET]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/](https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021))
 
-Outside Sources
-1) Leite, N., Calvo, A. L., Cumming, S., Gonçalves, B., & Calleja-Gonzalez, J. (2021, November 24). Editorial: Talent identification and development in sports performance. Frontiers in sports and active living. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/
+2) Leite, N., Calvo, A. L., Cumming, S., Gonçalves, B., & Calleja-Gonzalez, J. (2021, November 24). Editorial: Talent identification and development in sports performance. Frontiers in sports and active living. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652003/)
 
-2) Kleinfeld, A. J. (2023, October 24). OTE, NCAA, or G League? A wealth of options to chart a path to the NBA. Foley & Lardner LLP. https://www.foley.com/insights/publications/2021/11/ote-ncaa-or-g-league-options-path-to-nba/ 
+3) Kleinfeld, A. J. (2023, October 24). OTE, NCAA, or G League? A wealth of options to chart a path to the NBA. Foley & Lardner LLP. https://www.foley.com/insights/publications/2021/11/ote-ncaa-or-g-league-options-path-to-nba/ 
 [Link](https://www.foley.com/insights/publications/2021/11/ote-ncaa-or-g-league-options-path-to-nba/)
 
-3) Wimbish, Jasmyn. Jun 2, J. (2020, June 2). Five all-time NBA 3-and-D specialists who defined role that is central to today’s game. CBSSports.com. https://www.cbssports.com/nba/news/five-all-time-nba-3-and-d-specialists-who-defined-role-that-is-central-to-todays-game/ 
+4) Wimbish, Jasmyn. Jun 2, J. (2020, June 2). Five all-time NBA 3-and-D specialists who defined role that is central to today’s game. CBSSports.com. https://www.cbssports.com/nba/news/five-all-time-nba-3-and-d-specialists-who-defined-role-that-is-central-to-todays-game/ 
 [Link](https://www.cbssports.com/nba/news/five-all-time-nba-3-and-d-specialists-who-defined-role-that-is-central-to-todays-game/)
